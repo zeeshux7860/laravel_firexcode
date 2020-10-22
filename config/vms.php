@@ -1,0 +1,5 @@
+<?php
+
+return [
+    "myToken" => "appToken"
+];
